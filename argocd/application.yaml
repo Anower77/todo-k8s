@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/your-username/todo-k8s-project.git
+    repoURL: https://github.com/Anower77/todo-k8s.git
     targetRevision: main
     path: k8s
   destination:
